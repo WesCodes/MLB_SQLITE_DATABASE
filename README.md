@@ -1,2 +1,2 @@
-# MLB_SQLITE_DATABASE
-Normalizing a MLB Database
+# MLB_SQLITE_DATABASE_DESIGN_CREATION
+Designing and Creating an easy to access SQLite database
